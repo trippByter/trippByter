@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://culturaparacas.website/wp-content/uploads/2020/06/manto-1-1.jpg.webp)
+![](https://portal.andina.pe/EDPfotografia2/Thumbnail/2010/10/05/000137785W.jpg)
 
 <!--
 **trippByter/trippByter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
