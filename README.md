@@ -5,6 +5,7 @@
 - Hi there, mi name is Waldir Cossio.
 - I was born in 1993.
 - I'm from Pisco, Perú.
+- Actually I live in Iquique, Chile
 - I like technology, I'm entusiast programmer.
 - I play drums in @mal.portadxs.
 
@@ -43,7 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 =============
-
+Badges by https://github.com/Ileriayo
 <!--
 **trippByter/trippByter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
