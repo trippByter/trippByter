@@ -2,9 +2,10 @@
 
 ![](https://portal.andina.pe/EDPfotografia2/Thumbnail/2010/10/05/000137785W.jpg)
 
-Hi there, mi name is Waldir Cossio. I'm from Pisco, Perú.
-I like technology, I'm entusiast programmer.
-I play drums in @mal.portadxs
+- Hi there, mi name is Waldir Cossio. 
+- I'm from Pisco, Perú.
+- I like technology, I'm entusiast programmer.
+- I play drums in @mal.portadxs
 =============
 
 
