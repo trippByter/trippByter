@@ -6,7 +6,6 @@
 - I'm from Pisco, Perú.
 - I like technology, I'm entusiast programmer.
 - I play drums in @mal.portadxs
-=============
 
 
 # This is my actually stack:
